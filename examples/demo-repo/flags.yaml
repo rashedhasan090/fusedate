@@ -1,0 +1,7 @@
+features:
+  holiday_banner:
+    enabled: true
+    expires: 2026-11-10
+  beta_search:
+    enabled: true
+    valid_until: 2027-03-31
